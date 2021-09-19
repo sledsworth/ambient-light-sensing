@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1794D41626CB4A2B0011E7E0 /* AmbientLightManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1794D41526CB4A2B0011E7E0 /* AmbientLightManager.swift */; };
 		17BB134826CB40BD00F9D637 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BB134726CB40BD00F9D637 /* AppDelegate.swift */; };
 		17BB134A26CB40BD00F9D637 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BB134926CB40BD00F9D637 /* ContentView.swift */; };
 		17BB134C26CB40BD00F9D637 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 17BB134B26CB40BD00F9D637 /* Experience.rcproject */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1794D41526CB4A2B0011E7E0 /* AmbientLightManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmbientLightManager.swift; sourceTree = "<group>"; };
 		17BB134426CB40BD00F9D637 /* Ambient Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ambient Light.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		17BB134726CB40BD00F9D637 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17BB134926CB40BD00F9D637 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				17BB134B26CB40BD00F9D637 /* Experience.rcproject */,
 				17BB134D26CB40BF00F9D637 /* Assets.xcassets */,
 				17BB134F26CB40BF00F9D637 /* Preview Content */,
+				1794D41526CB4A2B0011E7E0 /* AmbientLightManager.swift */,
 			);
 			path = "Ambient Light";
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				17BB134A26CB40BD00F9D637 /* ContentView.swift in Sources */,
 				17BB134826CB40BD00F9D637 /* AppDelegate.swift in Sources */,
 				17BB134C26CB40BD00F9D637 /* Experience.rcproject in Sources */,
+				1794D41626CB4A2B0011E7E0 /* AmbientLightManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
